@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="bottom"
+        android:paddingBottom="50dp"
+        android:textAlignment="center"
+        android:textSize="40dp"
+        android:text="Ini fragment
+                        GitHub"
+        android:background="@drawable/bg1"
+        android:fontFamily="serif-monospace"
+        android:textColor="@color/cardview_light_background"
+        android:backgroundTintMode="screen"/>
+
+</LinearLayout>
